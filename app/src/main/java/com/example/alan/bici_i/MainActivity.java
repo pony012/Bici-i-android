@@ -41,6 +41,7 @@ public class MainActivity extends ActionBarActivity implements OnLocationUpdated
     @Override
     public void onActivityUpdated(DetectedActivity detectedActivity) {
         //showActivity(detectedActivity);
+
     }
 
     @Override
